@@ -1,0 +1,258 @@
+{
+  "tops": [
+    {
+      "name": "Blue Button-Up Shirt",
+      "filename": "t1.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Leopard Halter Top",
+      "filename": "t2.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Red & White Stripe Top",
+      "filename": "t3.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": false,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Brown T-Shirt",
+      "filename": "t4.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Black& White Polka Dot Tank Top",
+      "filename": "t5.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Green Floral Tank Top",
+      "filename": "t6.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Black Tie-Up Top",
+      "filename": "t7.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "White Long Sleeve Top",
+      "filename": "t8.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": false,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Green & Blue long Sleeve Top",
+      "filename": "t9.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": false,
+        "Cold": true
+      }
+    }
+  ],
+  "bottoms": [
+    {
+      "name": "Blue Wide Leg Jeans",
+      "filename": "b2.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": true,
+        "Hot": false,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Black Pin-Stripe Pants",
+      "filename": "b3.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": false,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Black Linen Pants",
+      "filename": "b4.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": false,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Blue Denim Mini Skirt",
+      "filename": "b5.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Beige Linen Long Skirt",
+      "filename": "b6.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Grey & Red Heart Long Skirt",
+      "filename": "b7.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Brown Midi Skirt",
+      "filename": "b8.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Green Cargo Short Skirt",
+      "filename": "b10.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Beige Cotton Short Skirt",
+      "filename": "b11.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Black Long Skirt",
+      "filename": "b9.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going out": false,
+        "Hot": false,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Black Short Skirt",
+      "filename": "b12.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": false
+      }
+    },
+    {
+      "name": "Black Linen Shorts",
+      "filename": "b1.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": false
+      }
+    }
+  ],
+  "shoes": [
+    {
+      "name": "Black & White Sneakers",
+      "filename": "s1.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": false,
+        "Hot": true,
+        "Cold": true
+      }
+    },
+    {
+      "name": "White Heels With Bow",
+      "filename": "s2.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Brown Platform Sandals",
+      "filename": "s3.jpg",
+      "attributes": {
+        "Casual": false,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": true
+      }
+    },
+    {
+      "name": "Black Flats With Straps",
+      "filename": "s4.jpg",
+      "attributes": {
+        "Casual": true,
+        "Going Out": true,
+        "Hot": true,
+        "Cold": true
+      }
+    }
+  ]
+}
